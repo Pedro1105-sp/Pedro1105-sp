@@ -1,4 +1,4 @@
-## Hello!! I'AM PEDRO HENRIQUE ALVES 👋🏽
+## HELLO!! I'AM PEDRO HENRIQUE ALVES 👋🏽
 
 - 💻🎇 Cursando Análise e Desenvolvimento de Sistemas
 - 😎 Estudante da Etec Antônio Furlan -> Desenvolvimento de Sistemas
