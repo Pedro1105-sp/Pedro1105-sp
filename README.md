@@ -1,7 +1,7 @@
 ## HELLO!! I'AM PEDRO HENRIQUE ALVES 👋🏽
 
 - 💻🎇 Cursando Análise e Desenvolvimento de Sistemas
-- 😎 Estudante de Desenvolvimento de Sistemas na Etec Antônio Furlan 
+- 😎 Formado no curso técnico de Desenvolvimento de Sistemas na Etec Antônio Furlan 
 
 
 
