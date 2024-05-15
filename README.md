@@ -2,7 +2,7 @@
 
 - 💻🎇 Cursando Análise e Desenvolvimento de Sistemas
 - 😎 Formado no curso técnico de Desenvolvimento de Sistemas na Etec Antônio Furlan
-- 🎖 Analista de Qualidade de Software - Automatizado
+- 🎖 Engenherio de Qualidade de Software - QAE
 
 
 
